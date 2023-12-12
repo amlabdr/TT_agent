@@ -1,0 +1,5 @@
+# config.yaml
+channels:
+  [1,2]
+WR_channel:
+  8
